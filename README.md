@@ -1,6 +1,6 @@
 # Data-science-project
 
-Project Proposal 
+
 INST 737 : Introduction to Data Science 
 Instructor: Dr.Vanessa Frias Martinez
 
@@ -17,6 +17,6 @@ We read the documentation and found that the Acquisition and Performance dataset
 Using the Fannie Mae Acquisition and Performance 2022Q4 dataset, predict the Original Note Rate based on variables such as Original UPB, Original LTV, Original DTI, Loan Purpose, Borrower Credit Score and Number of Borrowers.
 Project was done in 3 phases, with separate presentations. 
 ## Final presentation links:
-Phase 1 : https://youtu.be/mFAJRm_8yU8 
-Phase 2 : https://youtu.be/7K93oAGCx8Q
-Phase 3 : https://youtu.be/kvgwAgFWYNU
+Phase 1(m1) : https://youtu.be/mFAJRm_8yU8 
+Phase 2(m2) : https://youtu.be/7K93oAGCx8Q
+Phase 3(m3) : https://youtu.be/kvgwAgFWYNU
