@@ -3,14 +3,14 @@
 
 INST 737 : Data Science  
 
-Instructor: Dr.Vanessa Frias Martinez
+Instructor: Dr.Martinez
 
 Team Members:
-Tanya Gupta tgupta21@umd.edu
-Sadaf Davre  sdavre@umd.edu
+Sadaf Davre  sdavre@umd.edu  
+Tanya Gupta tgupta21@umd.edu  
 Ushasri Bhogaraju bushasri@umd.edu
 
-Topic Selection:
+Topic Selection:  
 Fannie Mae is a federally backed mortgage company that buys mortgages from lending institutions and either holds them or repackages them as mortgage-backed securities that can be sold to investors. (investopedia.com). For the benefit of investors and the general public Fannie Mae maintains the Data Dynamics site Fannie Mae Data Dynamics  that provides a wide variety of datasets. We propose to use the Acquisition and Performance dataset available at Fannie Mae Single Family Acq and Perf Dataset that contains a variety of variables to predict the ‘Original Note Rate’ variable.
 We read the documentation and found that the Acquisition and Performance datasets do not have headers and a separate layout file is provided. We downloaded the 2022Q4 zip file and the header file and created csv files from the large file inserting headers into each file. We found that each file has three rows for a single record pertaining to different monthly reporting periods and the data contains 108 columns many of which do not contain any data. 
  
