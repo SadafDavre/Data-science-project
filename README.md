@@ -17,7 +17,7 @@ We read the documentation and found that the Acquisition and Performance dataset
  
 ## Research Questions:  
 1) Using the Fannie Mae Acquisition and Performance 2022Q4 dataset, predict the Original Note Rate based on variables such as Original UPB, Original LTV, Original DTI, Loan Purpose, Borrower Credit Score and Number of Borrowers.
-2) Do all borrower criteria have equal influence over "Interest rate"? If not, which one have more?
+2) Do all borrower criteria have equal influence over "Interest rate"? If not, which ones have more?
 3) Can we accurately predict the class of Occupancy Status (whether the house purchased was for primary residency, secondary residency, or for investment purpose) in our dataset, based on our variables?
 Project was done in 3 phases, with separate presentations.   
 ## Final presentation links:  
