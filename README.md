@@ -1,7 +1,8 @@
 # Data-science-project
 
 
-INST 737 : Data science
+INST 737 : Data Science  
+
 Instructor: Dr.Vanessa Frias Martinez
 
 Team Members:
