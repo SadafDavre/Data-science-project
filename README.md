@@ -1,6 +1,6 @@
 # Data-science-project   
 
-Predicting mortgage interest rates using Machine Learning techniques
+Predicting mortgage interest rates using Machine Learning and AI techniques
 
 INST 737 : Data Science  
 
